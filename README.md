@@ -1,11 +1,4 @@
-# PROJECT DESCRIPTION & REPORT- TEAM CLIMBERS
-
-TEAM COMPOSITION
-
-1.        Rishu Singh (ris90@pitt.edu)
-2.        Nandhini Arivarignan (naa115@pitt.edu)
-3.        Nischita Pai (nvp15@pitt.edu)
-4.        Rashmitha Marupaka (ram302@pitt.edu)
+# PROJECT DESCRIPTION 
 
 # TITLE: ‘Task Hero’ - MERN Stack To-Do App with Sign-in feature
 
@@ -24,9 +17,7 @@ Read a task: Existing task list is displayed when a user is logged-in
 Update a task: All tasks are editable by a user any time they want
 Delete a task: Tasks can be deleted by a user
 
-# TEAM MEMBER’S CONTRIBUTION
-
-Rishu Singh:
+# INCLUDES
 -Created REST APIs using axios for login, signup, edit and delete tasks.
 -Designed Home, About, Profile, CRUD and Navbar pages
 -Testing and fixing bugs
@@ -35,19 +26,13 @@ Rishu Singh:
 -Fabricated schemas and database on MongoDB
 -State Maintenance
 -Documentated & presentated all the modules and processes of this application
-
-Nandhini Arivarignan:
 -Integrated APIs for admin
 -Testing and bug fixes.
 -State maintenance.
 -Routing.
-
-Nischita Pai:
 -Developed Node-APIs
 -Integrating initial dashboard with the front end app
 -Worked on the project presentation
-
-Rashmitha Marupaka:
 -Developed Node-APIs to create, fetch and delete
 
 # TECHNICAL ARCHITECTURE:
