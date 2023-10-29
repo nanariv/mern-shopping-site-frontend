@@ -1,6 +1,4 @@
-# PROJECT DESCRIPTION 
-
-# TITLE: ‘Task Hero’ - MERN Stack To-Do App with Sign-in feature
+MERN Stack To-Do App with Sign-in feature
 
 # DESCRIPTION
 
@@ -65,14 +63,6 @@ Features:
 -Updates in Material-UI is frequent which makes it up to date
 -Consisitency in design and color
 
-# CHALLENGES
-
--Frontend & Backend Integration: Initially we reviewed many resources to research how to combine backend and frontend. Finally, we found a project on glitch -’ https://glitch.com/edit/#!/mealtracknfind’ which was using ‘https://glitch.com/edit/#!/nodeexpressapi’ as its backend. We modelled our app similar to this. Also bringing up two interfaces together by calling axios API was a challenge.
--Glitch as a platform: Collaborating on a single project on Glitch was not easy as it frequently throwing errors and the most common error was ‘Too many requests’ which in general used to take atleast 30 minutes to go back to normal. We overcame this challenge by creating our personal versions for the project and then consolidating all the changes to the group version of the project.
--Inline update task: Inline update task was difficult than other ‘CRUD’ operations
--Conditional routing: Routing pages based on the user role (i.e. User or admin)
-Installing external packages: There were some packages that needed to be installed in Terminal manually
-
 # FUTURE WORK
 
 -Add-on features: Adding tasks filter based on category, priority and due-date. This will help users to categorize, prioritize their tasks
@@ -80,10 +70,6 @@ Installing external packages: There were some packages that needed to be install
 -Integrating Zoom: Zoom option to redirect a user to zoom with a click of a button
 -Google Calendar integration: Option to integrate tasks with google calendar
 -Set Frequency: This option will enable a user to set up the frequency of a task
-
-# CONCLUSION
-
-Technologies/Framework/Libraries learnt: MongoDB, Express, React, NodeJS, and Material UI. This Project was elegant enough to give us knowledge about the MERN stack. Although, we have done activities in our class separately on each of these but building something from scratch and integrating all the components to output a functional application was challenging at the start but was definitely a very insightful for us.
 
 # RESOURCES
 
@@ -101,8 +87,7 @@ https://reactjs.org/docs/state-and-lifecycle.html
 
 1. Login using below credentials or simply signup and then login
    -User Credentials:
-   emailId: ris90@pitt.edu
-   Password: rishu@06
+   *currently being reworked*
    -Admin Credentials:
    emailId: admin@taskhero.com
    Password: iamadmin
